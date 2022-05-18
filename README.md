@@ -3,3 +3,7 @@ This is a demonstration of a single-node, proof-of-work blockchain with automati
 
 ## Setup
 In the project directory, run "meteor run".
+
+## Live Demo
+
+A live demo of this project is at https://pow-blockchain.meteorapp.com/.
